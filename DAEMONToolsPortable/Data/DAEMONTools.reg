@@ -1,0 +1,58 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Disc Soft]
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro]
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro\Config]
+"Automount"=dword:00000000
+"Autostart"=dword:00000000
+"CheckForUpdate"=dword:00000000
+"UseTrayAgent"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro\Config\ConnectionSettings]
+@=""
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro\Data]
+"CFUr"=dword:00000001
+"CFUh"=dword:01d93f19
+"CFUl"=dword:7da71e29
+"CFUv"="A new DAEMON Tools Lite 11.1 is available.\nWould you like to download and update your DAEMON Tools Lite 4.48 now?"
+"CFUu"="https://www.daemon-tools.cc/releasenotes/dtLite"
+"CFUs"="http://disc-tools.com/download/93c69c0940af178d35d84c52e5c0961a01361152/1676234269/DTLiteDownloader.exe"
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro\Hotkeys]
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro\MountSpace]
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro\Options]
+"ManageImageInfoPos"=dword:00000000
+"ManageWidth"=dword:00000320
+"ManageHeight"=dword:00000258
+"ManageLeft"=dword:000000f0
+"ManageTop"=dword:00000064
+"ManageShowState"=dword:00000001
+"ManageIsImageInfoVisible"=dword:00000000
+"ManageImageInfoWidth"=dword:00000127
+
+[HKEY_CURRENT_USER\Software\Disc Soft\DAEMON Tools Pro\View]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\14919ea49a8f3b4aa3cf1058d9a64cec]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Disc Soft]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Disc Soft\DAEMON Tools Pro]
+"Path"="C:\\Users\\nick informatica\\Desktop\\MANUTENCAO\\DAEMONToolsPortable\\App\\DAEMON Tools Lite\\"
+"Version Major"="4"
+"Version Minor"="48"
+"Version Release"="1"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Disc Soft\DAEMON Tools Pro\Config]
+"AdapterStateDT"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Disc Soft\DAEMON Tools Pro\Data]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Disc Soft\DAEMON Tools Pro\FileTypesSave]
+@=""
